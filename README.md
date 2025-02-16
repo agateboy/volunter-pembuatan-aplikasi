@@ -7,3 +7,4 @@ Silahkan gunakan format berikut:<br>
 
 Berikut adalah daftar Volunter yang diterima:
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Adrian Ramdhany, [GitHub](https://github.com/adriandicoding).
